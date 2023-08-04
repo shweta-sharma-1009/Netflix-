@@ -10,7 +10,7 @@ Used The <div> tag defines a division or a section in an HTML document.
 Used <img> tag - to embed an image in an HTML page.
 Used <style> tag to define style information (CSS) for a document.
 Used button tag - The <button> tag defines a clickable button.
-Used Heading tag - The <h1> to <h3> tags are used to define HTML headings. 
+Used Heading tag - The <h1> to <h4> tags are used to define HTML headings. 
 **<h1>This is heading 1</h1>
-<h2>This is heading 2</h2>
-<h3>This is heading 3</h3>**
+<h3>This is heading 2</h3>
+<h4>This is heading 3</h4>**
